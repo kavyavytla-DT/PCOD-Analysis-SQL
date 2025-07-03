@@ -33,7 +33,22 @@ Key entities:
 - `Encounter`, `Billing`, `Physician`
 
  For detailed attributes and relationships, see [`docs/final_project_slides.pdf`].
+ 
+##  Built Using
 
+This project was developed as part of the Health Informatics curriculum at Northeastern University, leveraging the following tools and technologies:
+
+- SQL (Structured Query Language) 
+  Used to query and analyze relational data from simulated PCOD patient records.
+
+- MySQL / PostgreSQL   
+  Any standard RDBMS can be used to execute the queries and model the schema.
+
+- Relational Data Modeling
+  Normalized schema design representing clinical entities such as hormones, mental health, medication adherence, diet, menstrual cycles, and comorbid conditions.
+
+- EER Diagrams
+  Enhanced Entity-Relationship diagrams were used to visualize patient relationships, foreign key constraints, and one-to-many cardinalities.
 
 ## Goals
 
