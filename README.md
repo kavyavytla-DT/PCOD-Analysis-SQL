@@ -35,7 +35,7 @@ Key entities:
  For detailed attributes and relationships, see [`docs/final_project_slides.pdf`].
 
 
-## Relevance to Health Informatics
+## Goals
 
 This project demonstrates:
 - SQL-based patient data mining
